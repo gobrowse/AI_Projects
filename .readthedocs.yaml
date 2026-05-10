@@ -11,7 +11,7 @@ build:
 
 python:
   install:
-    - requirements: docs/requirements.txt
+    - requirements: AI_Projects/docs/requirements.txt
 
 sphinx:
-  configuration: docs/conf.py
+  configuration: AI_Projects/docs/conf.py
